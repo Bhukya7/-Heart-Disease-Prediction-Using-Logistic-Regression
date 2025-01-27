@@ -58,7 +58,7 @@ Missing values were removed from the dataset to ensure a clean input for the mod
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bhukya7/heart-disease-prediction.git
+   git clone https://github.com/Bhukya7/Heart-Disease-Prediction-Using-Logistic-Regression.git
    cd heart-disease-prediction
    ```
 2. Install the required dependencies:
